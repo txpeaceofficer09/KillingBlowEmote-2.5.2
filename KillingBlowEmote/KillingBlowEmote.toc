@@ -1,0 +1,6 @@
+## Interface: 20502
+## Title: KillingBlowEmote
+## Notes: Do a random emote to enemy players in BGs when you get the killing blow on them.
+## Author: Velcrogloves <Reign of Darkness> on Netherwing (stormforge.gg)
+## Version: 1.0.6
+Core.lua
